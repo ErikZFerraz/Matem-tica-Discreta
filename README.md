@@ -12,4 +12,4 @@ Os arquivos com a extensão .py contêm o código-fonte dos programas em Python,
 - Cardinalidade;
 - Conjunções e Disjunções;
 - Condicional (->) e Bicondicional (<->);
-- Tabelas-Verdades (em progresso);
+- Tabelas-Verdades;
