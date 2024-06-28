@@ -13,3 +13,15 @@ Os arquivos com a extensão .py contêm o código-fonte dos programas em Python,
 - Conjunções e Disjunções;
 - Condicional (->) e Bicondicional (<->);
 - Tabelas-Verdades;
+- Cálculo de Função;
+- Cálculo do Fatorial;
+- Cálculo do Fecho Transitivo;
+- Conversor de Binários;
+- Fechos nas Endorrelações;
+- Operações com Conjuntos;
+- Operações Lógicas;
+- Permutações;
+- Prova por Indução Matemática;
+- Sequência de Fibonacci;
+- Verificação de Números Primos;
+- Verificação de Paridade;
